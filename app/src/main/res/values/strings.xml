@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Projeto Integrador</string>
+    <string name="medidas">Medidas de Segurança</string>
+    <string name="compartilhar">Compartilhar Bike</string>
+    <string name="encontrar">Encontrar Bike</string>
+    <string name="comoCompartilhar">Para compartilhar a sua bike é simples, primeiro você precisa traze-la
+    a nossa base da ShareBike, aonde ela será avaliada por um perito, caso passe no teste,
+        faremos um contrato aonde sua bike, recebe um QR-CODE com uma identificação única, toda vez
+        que alguem alugar a sua bike creditamos 50% do valor na sua conta, após o periodo do contrato
+        a bike é devolvida e caso necessario reparamos ela para você.
+    </string>
+    <string name="info">O Pagamento é feito no local</string>
+</resources>
